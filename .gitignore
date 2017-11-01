@@ -3,5 +3,5 @@
 .DS_Store
 .DS_Store?
 .Trashes
-.tfstate.backup
-.tfstate
+*.tfstate.backup
+*.tfstate

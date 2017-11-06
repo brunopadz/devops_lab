@@ -2,6 +2,7 @@
 # Variables
 #
 
+#set region
 variable "region" { default = "us-east-1" }
 
 #
